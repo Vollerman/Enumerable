@@ -1,0 +1,15 @@
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\bin\Debug\net7.0\Average.exe
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\bin\Debug\net7.0\Average.deps.json
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\bin\Debug\net7.0\Average.runtimeconfig.json
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\bin\Debug\net7.0\Average.dll
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\bin\Debug\net7.0\Average.pdb
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.dll
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\refint\Average.dll
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.pdb
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\Average.genruntimeconfig.cache
+C:\Users\xLmNt-Pc\source\repos\Enumerables\Average\obj\Debug\net7.0\ref\Average.dll
